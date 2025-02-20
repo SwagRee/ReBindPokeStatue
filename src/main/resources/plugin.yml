@@ -1,0 +1,6 @@
+name: ReBindPokeStatue
+version: '1.2'
+main: io.github.swagree.rebindpokestatue.Main
+commands:
+  rbps:
+    description: ok

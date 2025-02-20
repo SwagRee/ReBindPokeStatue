@@ -1,0 +1,4 @@
+test:
+  - "say %player%测试了嘎嘎"
+msg:
+  - "say %player%msg测试"
